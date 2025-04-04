@@ -7,7 +7,7 @@ export default function Home() {
     <div className="max-w-xl sm:mt-1 mt-80 space-y-8 text-center sm:text-right sm:ml-auto sm:translate-x-4">
       <h2 className="text-2xl font-bold sm:text-4xl">
         Download Now
-        <span className="hidden sm:block text-3xl">Lorem Ipsum</span>
+        <span className="hidden sm:block text-3xl">Here we Go</span>
       </h2>
 
       <Link
@@ -42,11 +42,11 @@ export default function Home() {
 
 
 
-            <div className="grid  place-items-center sm:mt-20">
-                <img className="sm:w-96 w-48" src="https://i.ibb.co/2M7rtLk/Remote1.png" alt="image2" />
+            <div className="grid  place-items-center">
+                <img className="sm:w-96 w-48" src="https://ph-files.imgix.net/17f6e9b5-8ba9-4dca-8a6c-906b388142fe.png?auto=format&fit=crop" alt="image2" />
             </div>
 
-            <h1 className="text-center text-2xl sm:text-5xl py-10 font-medium">Lorem Ipsum Yojo</h1>
+            <h1 className="text-center text-xl text-black  py-10 ">Lorem Ipsum Yojo</h1>
         </div>
     );
 }
