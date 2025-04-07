@@ -37,16 +37,11 @@ export default function Home() {
     />
   </div>
 </aside>
-
-
-
-
-
             <div className="grid  place-items-center">
                 <img className="sm:w-96 w-48" src="https://ph-files.imgix.net/17f6e9b5-8ba9-4dca-8a6c-906b388142fe.png?auto=format&fit=crop" alt="image2" />
             </div>
 
-            <h1 className="text-center text-xl text-black  py-10 ">Lorem Ipsum Yojo</h1>
+            <h1 className="text-center text-xl text-black  py-10 ">React Router Learning</h1>
         </div>
     );
 }
